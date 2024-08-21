@@ -38,8 +38,8 @@ The Scala ecosystem thrives on information accessibility, and Scaladex stands as
 | [#20](https://github.com/skingle/scaladex/pull/20) Added an admin task to sync all artifacts for new metadata fields                        | Merged ☑️ | [scalacenter#1407](https://github.com/scalacenter/scaladex/issues/1407) |
 
 #### Final pull requests
-- https://github.com/scalacenter/scaladex/pull/1435
-- https://github.com/scalacenter/scaladex/pull/1446
+- [scalacenter#1435](https://github.com/scalacenter/scaladex/pull/1435)
+- [scalacenter#1446](https://github.com/scalacenter/scaladex/pull/1446)
 
 ### What's Covered
 
