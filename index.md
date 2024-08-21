@@ -11,7 +11,7 @@
 </picture>
 </div>
 <p align="center">
-    <h1 style="width:100%; text-align: center">Scaladex: Displaying information from POM files </h2>
+    <h1 style="width:100%; text-align: center">Scaladex: Displaying information from POM files </h1>
 </p>
 
 ### Project Abstract
