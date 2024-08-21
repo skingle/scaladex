@@ -1,10 +1,12 @@
 <div style="display: flex;justify-content: center;">
-<picture align="center">
+<picture align="center" style="margin-right: 10px;">
     <source media="(prefers-color-scheme: light)" srcset="https://summerofcode.withgoogle.com/assets/media/logo.svg">
-    <img alt="Google Summer of Code" src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal.svg" height="40">
+    <img alt="Google Summer of Code" src="https://summerofcode.withgoogle.com/assets/media/logo.svg" height="40">
 </picture>
+   
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://scala.epfl.ch/resources/img/scala-center-logo-black.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://scala.epfl.ch/resources/img/scala-center-logo.png">
     <img alt="Scala Center" src="https://scala.epfl.ch/resources/img/scala-center-logo-black.png" height="40">
 </picture>
 </div>
