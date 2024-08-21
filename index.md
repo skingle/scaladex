@@ -20,7 +20,7 @@ The Scala ecosystem thrives on information accessibility, and Scaladex stands as
 
 - [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2024/projects/4nuShODP)
 
-- [GSoC Project Proposal](http://LinikToYourGSoCProjectProposal)
+- [GSoC Project Proposal](https://github.com/user-attachments/files/16697199/proposal.pdf)
 
 - [GitHub Organization Repo](http://github.com/scalacenter/scaladex)
 
