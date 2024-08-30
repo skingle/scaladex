@@ -55,3 +55,6 @@ The Scala ecosystem thrives on information accessibility, and Scaladex stands as
 ![image](https://github.com/user-attachments/assets/6ec5b110-5d92-492f-bef9-81ef5e97e29b)
 ![image](https://github.com/user-attachments/assets/b4c0f8e7-bf5c-4758-8f0f-e0ed93dd95b9)
 
+#### Blogs
+- [✌️How I Started My ☀️GSoC'24 Journey with Scala Center](https://www.linkedin.com/pulse/how-i-started-my-gsoc24-journey-scala-center-siddharth-ingle-sdf5e/)
+
